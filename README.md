@@ -40,10 +40,10 @@ pip install keras
 git clone https://github.com/arcw76183450/face-mask-detection.git
 ```
 
-2. Navigate to the project directory:
+2. Install the project dependencies:
 
 ```
-cd face-mask-detection
+pip install -r requirements.txt
 ```
 
 ## Usage

@@ -2,7 +2,7 @@
 # Face Mask Detection Project 
 
 ## Introduction
-The Mask Detection project is an application that uses Python, OpenCV, and machine learning techniques to detect whether a person is wearing a mask or not. This project aims to contribute to the effort of promoting public health and safety during the COVID-19 pandemic.
+The Mask Detection project is an application that uses Python, OpenCV, and machine learning techniques to detect whether a person is wearing a mask or not. This project aims to contribute to the effort of promoting public health and safety during the COVID-19 pandemic. It was part of Verzeo internship project.
 
 ## Requirements
 To run the Mask Detection project, the following requirements must be met:
@@ -79,9 +79,6 @@ Contributions to the Mask Detection project are welcome! If you'd like to contri
 4. Commit your changes and push your branch to your forked repository.
 
 5. Submit a pull request to the main repository, explaining the changes you made.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Credits
 The Mask Detection project was created by [Your Name]. It utilizes the following resources:

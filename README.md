@@ -59,9 +59,13 @@ cd face-mask-detection
   python detect_mask_image.py --image examples/<image_name>
   ```
 
-3. The script will use your computer's camera to capture real-time video. It will detect faces in the video stream and classify them as wearing a mask or not. The results will be displayed on the screen.
+2. The script will use your computer's camera to capture real-time video. It will detect faces in the video stream and classify them as wearing a mask or not. The results will be displayed on the screen.
 
-4. Close the terminal to terminate the VideoStream.
+3. Close the terminal to terminate the VideoStream.
+
+## Output from video stream
+https://github.com/arcw76183450/face-mask-detection/assets/41956301/59819bcd-92fe-488d-bda0-047e8283f28a
+
 
 ## Contributing
 Contributions to the Mask Detection project are welcome! If you'd like to contribute, please follow these steps:
